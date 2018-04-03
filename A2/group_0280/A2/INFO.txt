@@ -1,0 +1,7 @@
+Names: Zhongtian Ouyang, Su Young Lee
+UtorID: ouyangz2, leesu9
+svn revision number: 13
+
+Discussion: 
+I believe that starvation is not likely to happen when using this moniter. The reason is that there is no lane in the intersection that has a higher priority compared to other lanes. So the lanes should be going in turns. It is unlikely to have mutiple consective cars crossing the intersetion all coming from one specific lane.
+
